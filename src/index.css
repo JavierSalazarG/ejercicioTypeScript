@@ -1,0 +1,15 @@
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 320px;
+  margin: 0 auto;
+  margin-top: 5rem;
+  gap: 2rem;
+}
+form input {
+  height: 30px;
+  border: none;
+  background-color: rgba(128, 128, 128, 0.63);
+  color: white;
+  padding-left: 2rem;
+}
